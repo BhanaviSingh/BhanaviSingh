@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhanaviSingh
-- 👀 I’m interested in Data Analysis, Machine Learning
+- 👀 I’m interested in Data Analytics, Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me bhanavi185@gmail.com
 
